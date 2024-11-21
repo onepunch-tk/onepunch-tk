@@ -11,6 +11,8 @@
 
 🎯 작고 빠르게 개발하여 테스트하고, 확장 가능한 애플리케이션 개발을 목표로 하고 있습니다
 
+<br>
+
 ## 🛠 Tech Stack
 
 ### ⌨️ Languages
@@ -51,7 +53,10 @@
 ![Webstorm](https://img.shields.io/badge/-Webstorm-000?style=for-the-badge&logo=Webstorm&logoColor=white)
 ![Xcode](https://img.shields.io/badge/-Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white)
 
+<br>
+
 ## 📫 Contact
+
 [![Email](https://img.shields.io/badge/86tkstar@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:86tkstar@gmail.com)
 
 [//]: # (<br>)

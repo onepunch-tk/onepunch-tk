@@ -7,7 +7,7 @@
 
 🌱 현재 RN+Expo를 활용한 기술에 집중하고 있습니다
 
-👥 모바일앱 및 NestJS를 활용한 백엔드 프로젝트 협업에 열려있습니다
+👥 React Router Freamwork(Remix) & 모바일앱 & NestJS를 활용한 백엔드 프로젝트 협업에 열려있습니다
 
 🎯 작고 빠르게 개발하여 테스트하고, 확장 가능한 애플리케이션 개발을 목표로 하고 있습니다
 
@@ -26,7 +26,7 @@
 ### 🧩 Frameworks & Libraries
 #### Front-end : 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=Next.js&logoColor=white)
+![React Router(Remix)](https://img.shields.io/badge/-remix-000000?style=for-the-badge&logo=remix&logoColor=white&color=black)
 #### Mobile App : 
 ![React-Native](https://img.shields.io/badge/-React--Native-61DAFB?style=for-the-badge&logo=React&logoColor=black)
 ![Expo](https://img.shields.io/badge/-Expo-000020?style=for-the-badge&logo=Expo&logoColor=white)

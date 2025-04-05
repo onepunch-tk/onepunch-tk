@@ -5,7 +5,9 @@
 ## 🚀 About Me
 💻 열정을 지속하는 5년차 개발자입니다
 
-🌱 현재 RN+Expo를 활용한 기술에 집중하고 있습니다
+🌱 현재 RN+Expo를 모바일 앱 개발에 집중하고 있습니다
+
+🌱 현재 React Router Framework(Remix)를 활용한 웹앱 개발에 집중하고 있습니다
 
 👥 React Router Freamwork(Remix) & 모바일앱 & NestJS를 활용한 백엔드 프로젝트 협업에 열려있습니다
 
@@ -26,13 +28,14 @@
 ### 🧩 Frameworks & Libraries
 #### Front-end : 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=black)
-![React Router(Remix)](https://img.shields.io/badge/-remix-000000?style=for-the-badge&logo=remix&logoColor=white&color=black)
 #### Mobile App : 
 ![React-Native](https://img.shields.io/badge/-React--Native-61DAFB?style=for-the-badge&logo=React&logoColor=black)
 ![Expo](https://img.shields.io/badge/-Expo-000020?style=for-the-badge&logo=Expo&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/-Swift_UI-F05138?style=for-the-badge&logo=swift&logoColor=white)
 #### Back-end : 
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white)
+#### Full-stack :
+![React Router(Remix)](https://img.shields.io/badge/-remix-000000?style=for-the-badge&logo=remix&logoColor=white&color=black)
 #### State Management : 
 ![ReactQuery](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 ![Zustand](https://img.shields.io/badge/-Zustand-brown?style=for-the-badge)
